@@ -29,7 +29,7 @@ Em um ambiente SOC, o log management permite correlacionar eventos e identificar
 ---
 
 ## 📸 Screenshot
-
+![Log Management Screenshot](../../screenshots/log-management.png)
 
 ## 🧠 Como um analista SOC pensaria
 
