@@ -18,8 +18,6 @@ Este repositório documenta minha jornada prática para me tornar um Analista SO
 ## 📚 Plataformas
 
 - LetsDefend
-- Hackers do Bem
-
 ---
 
 ## 🧪 O que você vai encontrar aqui
