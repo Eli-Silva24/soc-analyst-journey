@@ -30,4 +30,20 @@ Em um ambiente SOC, o log management permite correlacionar eventos e identificar
 
 ## 📸 Screenshot
 
-(Adicionar print aqui depois)
+
+## 🧠 Como um analista SOC pensaria
+
+Se eu estivesse em um ambiente real, eu utilizaria o log management para:
+
+- Identificar comportamentos suspeitos
+- Correlacionar eventos entre diferentes fontes
+- Investigar possíveis incidentes de segurança
+
+Essa centralização permite reduzir tempo de resposta e aumentar a precisão da análise.
+
+
+## 🚀 Próximos passos
+
+- Aprender a usar SIEM na prática
+- Analisar alertas reais
+- Praticar investigação de incidentes
