@@ -49,8 +49,9 @@ em endpoints da rede simulada.
 ---
 
 ## 📸 Screenshots
-
-![Log Management](../../screenshots/log-management.png)
+![Log Proxy](../../screenshots/log-proxy-github.png)
+![Threat Intel](../../screenshots/threat-intel-hash.png)
+![EDR Roberto Terminal](../../screenshots/edr-roberto-terminal.png)
 
 > ⚠️ Adicionar prints do Threat Intel e EDR
 
